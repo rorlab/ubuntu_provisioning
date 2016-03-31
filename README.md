@@ -22,6 +22,3 @@ Provisioning List :
 * Installing Redis
 * Installing Pygments
 * Installing Miscellaneous Libraries
-* Installing rbenv
-* Installing ruby-build
-* Installing ruby 2.3.0
