@@ -13,7 +13,7 @@ Provisioning List :
 
 * Nignx
 * Nodejs
-* MySQL / Postgresql
+* MySQL server
 * Imagemagick
 * Pygmentize
 * Redis
