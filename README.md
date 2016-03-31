@@ -11,9 +11,17 @@ $ ./ubuntu_provisioning/setup.sh
 
 Provisioning List :
 
-* Nignx
-* Nodejs
-* MySQL server
-* Imagemagick
-* Pygmentize
-* Redis
+* Updating Packages
+* Installing Korean Language Pack
+* Installing Git
+* Installing Nginx
+* Installing Nodejs
+* Installing Imagemagick
+* Installing sqlite3
+* Installing MySQL
+* Installing Redis
+* Installing Pygments
+* Installing Miscellaneous Libraries
+* Installing rbenv
+* Installing ruby-build
+* Installing ruby 2.3.0
